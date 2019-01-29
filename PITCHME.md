@@ -54,7 +54,7 @@ Kas on mõni teema?
 
 @size[smaller](Tere, prof Vain!)
 
-@size[smaller](Minu nimi on Tudeng Töökas ja ma otsin informaatika bakalaureusetöö teemat. Lõputööde teemavaldkondade leheküljel on märgitud, et Teil on välja pakkuda teema "Simulatsiooni koostamine nutika kuuelamu demonstraatori visualiseerimiseks". See teema pakub mulle huvi, sest /.../)
+@size[smaller](Minu nimi on Tudeng Töökas ja ma otsin informaatika bakalaureusetöö teemat. Lõputööde teemavaldkondade leheküljel on märgitud, et Teil on välja pakkuda teema "Simulatsiooni koostamine nutika kuuelamu demonstraatori visualiseerimiseks". See teema pakub mulle huvi, sest tahaks ise ka kuule elama minna.)
 
 @size[smaller](Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.)
 
