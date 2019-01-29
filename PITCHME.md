@@ -52,11 +52,11 @@ Kas on mõni teema?
 ## Parem kiri
 ---
 
-Tere, prof Vain!
+@size[smaller](Tere, prof Vain!
 
 Minu nimi on Tudeng Töökas ja ma otsin informaatika bakalaureusetöö teemat. Lõputööde teemavaldkondade leheküljel on märgitud, et Teil on välja pakkuda teema "Simulatsiooni koostamine nutika kuuelamu demonstraatori visualiseerimiseks". See teema pakub mulle huvi, sest /.../
 
-Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.
+Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.)
 
 ---
 ## Projektihaldus
