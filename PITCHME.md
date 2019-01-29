@@ -39,7 +39,7 @@ Peale juhendajaga teema kokkuleppimist käsitleme lõputööd nagu projekti.
 ---
 ## Gitlab
 
-[TalTech Gitlab](https://gitlab.cs.ttu.ee)
+[https://gitlab.cs.ttu.ee](https://gitlab.cs.ttu.ee)
 
 Projekt "iapb"
 
