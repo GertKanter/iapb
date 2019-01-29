@@ -52,7 +52,7 @@ Kas on mõni teema?
 ## Parem kiri
 ---
 
-@size[smaller](Tere, prof Vain!
+@size[18px](Tere, prof Vain!
 
 Minu nimi on Tudeng Töökas ja ma otsin informaatika bakalaureusetöö teemat. Lõputööde teemavaldkondade leheküljel on märgitud, et Teil on välja pakkuda teema "Simulatsiooni koostamine nutika kuuelamu demonstraatori visualiseerimiseks". See teema pakub mulle huvi, sest /.../
 
