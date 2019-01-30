@@ -59,6 +59,11 @@ Kas on mõni teema?
 @size[smaller](Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.)
 
 ---
+# Ülesandepüstitus
+
+Ülesandepüstituse info on ained.ttu.ee lõputöö aines [näha siin](https://ained.ttu.ee/mod/assign/view.php?id=7749).
+
+---
 ## Projektihaldus
 
 Peale juhendajaga teema kokkuleppimist käsitleme lõputööd nagu projekti.
@@ -69,6 +74,16 @@ Peale juhendajaga teema kokkuleppimist käsitleme lõputööd nagu projekti.
 [https://gitlab.cs.ttu.ee](https://gitlab.cs.ttu.ee)
 
 Projekt "iapb"
+
+---
+## Mis Gitlabist kasu on?
+
+@ul
+- Git (muudatuste ajalugu, rollback jne)
+- Issue tracker
+- Milestones
+- (Mugavam koostöö juhendajaga)
+@ulend
 
 ---
 ## Täpne ajakava
