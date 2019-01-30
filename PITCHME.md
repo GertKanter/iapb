@@ -79,7 +79,7 @@ Projekt "iapb"
 ## Mis Gitlabist kasu on?
 
 @ul
-- Git (muudatuste ajalugu, rollback jne)
+- Git (varukoopia, muudatuste ajalugu, rollback jne)
 - Issue tracker
 - Milestones
 - (Mugavam koostöö juhendajaga)
