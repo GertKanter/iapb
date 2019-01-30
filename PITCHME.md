@@ -80,8 +80,8 @@ Projekt "iapb"
 
 @ul
 - Git (varukoopia, muudatuste ajalugu, rollback jne)
-- Issue tracker
-- Milestones
+- Issue tracker (ülesanded, küsimused)
+- Milestones (tähtpunktid)
 - Wiki (memod koosolekutest juhendajaga jne)
 - (Mugavam koostöö juhendajaga)
 @ulend
