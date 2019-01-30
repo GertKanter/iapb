@@ -59,7 +59,7 @@ Kas on mõni teema?
 @size[smaller](Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.)
 
 ---
-# Ülesandepüstitus
+## Ülesandepüstitus
 
 Ülesandepüstituse info on ained.ttu.ee lõputöö aines [näha siin](https://ained.ttu.ee/mod/assign/view.php?id=7749).
 
