@@ -1,6 +1,11 @@
 ## Informaatika bakalaureusetööde infotund
 
 ---
+## Slaidid
+
+http://github.com/GertKanter/iapb
+
+---
 ## Kava
 
 @ul
