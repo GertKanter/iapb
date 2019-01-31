@@ -98,3 +98,5 @@ Projekt "iapb"
 
 ---
 ## Küsimused?
+
+gert.kanter@taltech.ee
