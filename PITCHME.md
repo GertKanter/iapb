@@ -3,7 +3,7 @@
 ---
 ## Slaidid
 
-http://github.com/GertKanter/iapb
+https://github.com/GertKanter/iapb
 
 ---
 ## Kava
